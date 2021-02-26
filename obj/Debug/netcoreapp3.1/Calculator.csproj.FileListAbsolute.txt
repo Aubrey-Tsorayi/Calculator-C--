@@ -1,0 +1,22 @@
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/home/th3_d3v/Documents/Projects/C# Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/home/th3_d3v/Documents/Projects/C#Tutorial/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
